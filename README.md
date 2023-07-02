@@ -4,6 +4,7 @@
 - Film
 - Politics
 - Physics
+- Comedy
 - History
 - and
 - Geography.
