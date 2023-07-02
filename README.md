@@ -9,7 +9,7 @@
 - and
 - Geography.
 - 🌱 I’m currently learning
-- How to code
+- How to code a website
 - 💞️ I’m looking to collaborate on
 - Nothing at this moment in time.
 - 📫 How to reach me
